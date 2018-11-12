@@ -1,0 +1,22 @@
+{
+  "name": "react-3d-rotation-box",
+  "version": "1.0.0",
+  "description": "a 3d effect animation, content in the box will rotate in 3d when mouse moves",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "3d-rotation",
+    "component"
+  ],
+  "author": "Hector Guo",
+  "homepage": "https://hectorguo.com/react-3d-rotation-box/",
+  "repository": "https://github.com/hectorguo/react-3d-rotation-box",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.6.1"
+  }
+}
