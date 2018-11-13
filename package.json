@@ -1,6 +1,6 @@
 {
   "name": "react-3d-rotation-box",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a 3d effect animation, content in the box will rotate in 3d when mouse moves",
   "main": "index.jsx",
   "scripts": {
